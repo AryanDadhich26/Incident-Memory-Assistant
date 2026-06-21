@@ -62,7 +62,7 @@ Eventually traced it down using EXPLAIN ANALYZE, which proved Postgres was actua
 6. Send a test alert to the webhook and watch it land in Slack
 
 ## n8n
-
+![worflow](Incident-Memory-Assistant/n8n.png)
 
 
 
