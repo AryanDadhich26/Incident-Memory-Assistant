@@ -61,6 +61,8 @@ Eventually traced it down using EXPLAIN ANALYZE, which proved Postgres was actua
 5. Set a webhook secret header for basic auth on the trigger
 6. Send a test alert to the webhook and watch it land in Slack
 
+## n8n
+
 
 
 
